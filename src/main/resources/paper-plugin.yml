@@ -1,0 +1,5 @@
+name: ServerMenu
+version: 1.0.0
+main: com.example.servermenu.ServerMenuPlugin
+bootstrapper: com.example.servermenu.ServerMenuBootstrap
+api-version: "26.2"
