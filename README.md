@@ -1,4 +1,5 @@
 This is a simple Server Menu plugin that adds an ESC menu button.
 
-<img width="415" height="314" alt="image" src="https://github.com/user-attachments/assets/cdcfcec8-b2a1-4d6b-8643-ee432a03049b" />
+<img width="800" height="450" alt="2026-11-1216-02-13-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5367bf5f-2e86-4753-87cf-663fbc2bcd53" />
+
 
