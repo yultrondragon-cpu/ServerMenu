@@ -1,5 +1,4 @@
 This is a simple Server Menu plugin that adds an ESC menu button.
 
-<p align="center">
-   <img height="350" alt="yultrondragon-cpu serverescbutton" src="https://raw.githubusercontent.com/yultrondragon-cpu/register/main/media/serverescbutton.png">
-</p>
+<img width="415" height="314" alt="image" src="https://github.com/user-attachments/assets/cdcfcec8-b2a1-4d6b-8643-ee432a03049b" />
+
