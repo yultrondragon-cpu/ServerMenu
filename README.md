@@ -30,4 +30,5 @@ buttons:
     command: "/shop"
   - label: "Spawn"
     icon: "sprite:item/compass"
+    command: "/spawn"
 ```
