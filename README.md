@@ -17,7 +17,7 @@ This is a simple Server Menu plugin that adds a custom **Server Menu** button di
      - `label`: `"(button name)"` — The text displayed on the button.
      - `icon`: `"(icon sprite)"` — The icon displayed on the button.
      - `command`: `"(your /command)"` *(Optional)* — Runs a command when clicked.
-     - `open`: `"(dialog menu name)"` *(Optional)* — Opens a custom dialog menu.
+     - `open`: `"(dialog menu file name)"` *(Optional)* — Opens a custom dialog menu.
 
 ### Example `menu.yml`
 
