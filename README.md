@@ -28,4 +28,6 @@ buttons:
   - label: "Shop"
     icon: "sprite:block/emerald_block"
     command: "/shop"
+  - label: "Spawn"
+    icon: "sprite:item/compass"
 ```
